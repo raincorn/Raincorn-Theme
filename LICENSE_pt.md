@@ -101,4 +101,6 @@ Público, e em alguns países também outras atividades.
 
   Para "transmitir" uma obra significa qualquer tipo de propagação que
 Partes para fazer ou receber cópias. Mera interação com um usuário através de
-Uma rede de computadores, sem transferência de uma cópia, não está
+Uma rede de computadores, sem transferência de uma cópia, não está.
+
+Uma interface de usuário interativa exibe "Avisos Legais Apropriados" na medida em que inclui um recurso conveniente e proeminentemente visível que (1) exibe um aviso de direitos autorais apropriado e (2) informa ao usuário que não há garantia para o trabalho Na medida em que as garantias são fornecidas), que os licenciados podem transmitir o trabalho sob esta Licença, e como visualizar uma cópia desta Licença. Se a interface apresenta uma lista de comandos ou opções do usuário, como um menu, um item proeminente na lista atende a esse critério.
